@@ -1,6 +1,6 @@
 const data={
   brand:'Birendra Sah',
-  role:'Secure Future Advisor',
+  role:' BIRENDRA PD. SAH \n Secure Future Advisor',
   headline:'Your trust today,\n your security for tomorrow.',
   intro:'Helping families and businesses plan with confidence through thoughtful insurance guidance.',
   personalIntro:'Hello, I am Birendra Sah (NATIONAL LIFE INSURANCE AGENT). I am your trusted SecureFuture Advisor. I help individuals, families, and businesses make confident decisions for a more secure future.',
