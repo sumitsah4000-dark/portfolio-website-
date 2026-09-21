@@ -14,7 +14,7 @@ const data={
   certificates:[{title:'Top of the month(2082)',photo:'assets/certificate-1.jpg'},{title:'Ceo club member(2080/81)',photo:'assets/certificate-2.jpg'}],
   award:{title:'Collective award(2080/81/82)',photo:'assets/award.jpg'},
   achievements:[{title:'450+ Families Protected',description:'A milestone built through long-term relationships and trusted guidance.',year:'2073-till now',photo:'assets/500-families-protected.jpg'},{title:'Life Insurance Specialist',description:'Certified expertise in family protection and financial planning.',year:'2073-till now',photo:'assets/life-insurance-specialist.jpg'}],
-  email:'birenshah367@gmail.com',whatsapp:'9807709307',phone:'9818880370',facebook:'https://www.facebook.com/birendra.sah.250634'
+  email:'birenshah367@gmail.com',whatsapp:'+9779807709307',phone:'9818880370',facebook:'https://www.facebook.com/birendra.sah.250634'
 };
 const $=id=>document.getElementById(id);
 const moneyFlow=document.querySelector('.money-flow');
